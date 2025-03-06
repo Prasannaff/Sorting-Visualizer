@@ -26,4 +26,4 @@ A **Sorting Algorithm Visualizer** built using Java, designed to demonstrate how
 ## 📌 How to Run  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-Prasannaff/Sorting-Visualizer.git
+   git clone https://github.com/Prasannaff/Sorting-Visualizer.git
